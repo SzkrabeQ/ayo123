@@ -47,3 +47,74 @@
 	height: 60px;
 	background-color: white;
 }
+#znak3{
+    width: 300px;
+    height: 300px;
+    margin:auto;
+}
+#znak2{
+    width: 100%;
+    height: 100%;
+    background-color: #fde633;
+    border: 10px solid black;
+    border-radius: 3%;
+    
+}
+#znakg1{
+height: 40%;
+width: 50%;
+display: inline-block;
+
+position: relative;
+
+
+}
+#znakg2{
+    height: 40%;
+    width: 50%;
+    display: inline-block;
+    
+    float: right;
+    
+    position: relative;
+
+}
+#srodek{
+    background-color: black;
+    width: 100%;
+    height: 20%;
+    position: relative;
+    margin-top: -4px;
+   
+   
+    
+}
+#znakd1{
+    height: 40%;
+    width: 50%;
+    display: inline-block;
+    
+   float:left;
+   position: relative;
+}
+#znakd2{
+    height: 40%;
+    width: 50%;
+    display: inline-block;
+    position: relative;
+}
+#cg{
+  width: 10%;
+  height: 85%;
+  background-color: black;
+  margin: auto;
+    
+}
+#cd{
+    width: 10%;
+    height: 85%;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 13%;
+}
