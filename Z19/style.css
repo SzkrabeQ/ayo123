@@ -59,6 +59,7 @@ main{
 img{
     padding: 2%;
     text-align: center;
+    cursor: pointer;
 }
 aside{
     width: 25%;
