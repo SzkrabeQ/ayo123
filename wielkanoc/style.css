@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Delicious Handrawn', cursive;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    
+    background: radial-gradient(circle, white 0% ,white 30%, rgb(83, 170, 71) 100%);
+}
+.kontener{
+    width: 100vw;
+    height: 100vh;
+   
+    display: flex;
+
+}
+.lp{
+    width: 30vw;
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 40vw;
+    height:100vh;
+    font-size: 5vmin;
+    text-align: center;
+}
+img{
+    width: 30vw;
+    height: 40vh;
+}
+.bukiet{
+    width: 20vw;
+    height: 30vh;
+}
+.pp{
+    width: 30vw;
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tytul{
+    
+    font-size: 10vmin;
+    color: rgb(52, 209, 65);
+}
