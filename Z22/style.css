@@ -1,0 +1,47 @@
+#as{
+	position: absolute;
+	left: 100px;
+	top: 100px;
+	z-index: 1;
+	transform: rotate(-30deg);
+}
+#krol{
+	position: absolute;
+	left: 150px;
+	top: 90px;
+	z-index: 2;
+	transform: rotate(-15deg);
+}
+#dama{
+	position: absolute;
+	left: 200px;
+	top: 100px;
+	z-index: 3;
+}
+#walet{
+	position: absolute;
+	left: 250px;
+	top: 115px;
+	z-index: 4;
+	transform: rotate(15deg);
+}
+#rew{
+	position: absolute;
+	left: 300px;
+	top: 150px;
+	z-index: 5;
+	transform: rotate(30deg);
+}
+
+#as:hover{
+	z-index: 100;
+}
+#krol:hover{
+	z-index: 100;
+}
+#dama:hover{
+	z-index: 100;
+}
+#walet:hover{
+	z-index: 100;
+}
