@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+}
+#kontener{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    background-color: rgb(255, 250, 181);
+}
+#sierpien{
+    width: 33vw;
+    height: 100vh;
+}
+#sierpien img{
+    width: 100%;
+    height:40%;
+
+}
+#sierpien table{
+    width: 33vw;
+    height: 40%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+#sierpien caption{
+    font-size: 50px;
+}
+tr, td, th{
+    border: 1px dotted black;
+    
+    width: 60px;
+    height: 60px;
+}
+.szary{
+    color: gray;
+}
+#wrzesien{
+    width: 34vw;
+    height: 100vh;
+}
+#wrzesien img{
+    width: 100%;
+    height:40%;
+}
+#wrzesien table{
+    width: 34vw;
+    height: 40%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+#wrzesien caption{
+    font-size: 50px;
+}
+#pazdziernik{
+    width: 33vw;
+    height: 100vh;
+}
+#pazdziernik img{
+    width: 100%;
+    height: 40%;
+}
+#pazdziernik table{
+    width: 33vw;
+    height: 40%;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+#pazdziernik caption{
+    font-size: 50px;
+}
